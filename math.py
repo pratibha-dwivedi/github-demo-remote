@@ -1,21 +1,15 @@
 # Add implementation
 def add (x,y):
-    return x+y
+    pass
 
 # Subtract implementation
 def subtract (x,y):
-    return x-y               # on master branch
-
+    pass  
+            
 # Multiply implementation
 def multiply (x,y):
-    return x*y				#on bug456
+    pass				
 
 # Divide implementation
 def divide (x,y):
-    if y==0:				# master branch
-      return Divide_by_0_error
-    else:
-       return x/y
-#squareimplemented
-def square(x):
-     return x*x
+    pass
